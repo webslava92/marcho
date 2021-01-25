@@ -15,6 +15,7 @@
     "jquery": "^3.5.1"
   },
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.1.0",

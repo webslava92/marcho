@@ -12,6 +12,7 @@
     "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
     "gulp-imagemin": "^7.1.0",
+    "ion-rangeslider": "^2.3.1",
     "jquery": "^3.5.1"
   },
   "devDependencies": {
@@ -20,6 +21,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
+    "jquery-form-styler": "^2.0.2",
     "rateyo": "^2.3.2",
     "slick-carousel": "^1.8.1"
   }

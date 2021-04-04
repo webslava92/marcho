@@ -3,6 +3,8 @@
 @import 'fonts';
 @import 'libs';
 @import 'global';
+@import '../module/_header/_header';
+@import '../module/_footer/_footer';
 
 .page-404{
   padding: 110px 0 120px;
@@ -20,6 +22,7 @@
     margin-bottom: 40px;
     @extend %roboto-700;
     font-size: 48px;
+    line-height: 52px;
   }
   &__text{
     margin-bottom: 55px;
@@ -43,6 +46,9 @@
   &__filters{
     width: 370px;
     margin-right: 30px;
+  }
+  &__filter-btn{
+    display: none;
   }
 }
 
@@ -1046,7 +1052,7 @@
 
 
 #map{
-  width: 980px;
+  width: 100%;
   height: 450px;
 }
 

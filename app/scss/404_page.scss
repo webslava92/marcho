@@ -2,5 +2,8 @@
 @import 'vars';
 @import 'fonts';
 @import 'global';
-@import '../module/_header/_header.scss';
-@import '../module/_footer/_footer.scss';
+@import '../../node_modules/slick-carousel/slick/slick.scss';
+@import '../../node_modules/@fancyapps/fancybox/dist/jquery.fancybox';
+@import '../../node_modules/rateyo/src/jquery.rateyo';
+@import '../module/_header/_header';
+@import '../module/_footer/_footer';
